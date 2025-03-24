@@ -34,4 +34,7 @@ public class MyClass {
 
     //Techpro Branch, Version: t7
     public String str11 = "This is another String created in the techpro branch.";
+
+    //Changes
+    public Integer int2 = 11;
 }
