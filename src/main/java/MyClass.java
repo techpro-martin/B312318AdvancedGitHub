@@ -31,4 +31,7 @@ public class MyClass {
 
     //conflict will happen
     public Integer int1 = 11;
+
+    //Techpro Branch, Version: t7
+    public String str11 = "This is another String created in the techpro branch.";
 }
