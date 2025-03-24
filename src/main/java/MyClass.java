@@ -25,4 +25,7 @@ public class MyClass {
 
     //Techpro Branch, Version: t5
     public String str9 = "This is another String created in the techpro branch.";
+
+    //conflict will happen
+    public Integer int1 = 11;
 }
