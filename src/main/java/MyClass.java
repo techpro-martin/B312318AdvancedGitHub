@@ -25,4 +25,7 @@ public class MyClass {
 
     //Techpro Branch, Version: t5
     public String str9 = "This is another String created in the techpro branch.";
+
+    //Master Branch, Version: v6
+    public String str10 = "The master branch will be newer than the techpro.";
 }
